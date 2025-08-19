@@ -1,0 +1,23 @@
+html,
+body,
+.leaflet-map {
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.elevation-summary {
+    margin: 0px;
+   }
+
+.leaflet-control-attribution {
+    display: none;
+}
+
+
